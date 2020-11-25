@@ -2,9 +2,8 @@
 
 ## About me
 - 20 years old
-- i like python and sum Julia :D
-- Learning sum rust
-- like making discord bots for no reason
+- Learning rust
+- i make Discord bots with `discord.py` and `discord.jl` -> *Julia-lang* :D
 - Also a hardcore Desitny 2 player
 
 <br/>
