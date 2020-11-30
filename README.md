@@ -3,8 +3,8 @@
 ## About me
 - 20 years old
 - Learning rust
-- i make Discord bots with `discord.py` and `discord.jl` -> *Julia-lang* :D
-- Also a hardcore Desitny 2 player
+- i make Discord bots with `discord.py` :D
+- Desitny 2 player
 
 <br/>
 <center>
